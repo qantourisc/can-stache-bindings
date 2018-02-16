@@ -30,7 +30,7 @@
     "main": "can-stache-bindings"
   },
   "dependencies": {
-    "can-attribute-encoder": "^1.0.0",
+    "can-attribute-encoder": "^1.0.2",
     "can-dom-data-state": "^1.0.0",
     "can-dom-events": "^1.1.1",
     "can-dom-mutate": "^1.0.1",
