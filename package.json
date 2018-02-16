@@ -46,7 +46,7 @@
     "can-simple-map": "^4.0.0",
     "can-simple-observable": "^2.0.0",
     "can-stache": "^4.0.2",
-    "can-stache-key": "^1.0.0",
+    "can-stache-key": "^1.0.1",
     "can-symbol": "^1.0.0",
     "can-types": "^1.1.6",
     "can-util": "^3.9.0",
