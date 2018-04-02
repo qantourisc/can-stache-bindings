@@ -50,7 +50,7 @@
     "can-view-callbacks": "^4.0.0",
     "can-view-live": "^4.0.0",
     "can-view-model": "^4.0.0",
-    "can-view-scope": "^4.0.0"
+    "can-view-scope": "4.0.5"
   },
   "devDependencies": {
     "can-define": "^2.0.0",
