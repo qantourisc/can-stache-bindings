@@ -53,7 +53,7 @@
     "can-view-scope": "^4.0.0"
   },
   "devDependencies": {
-    "can-define": "^2.0.0",
+    "can-define": "^2.3.0",
     "can-event-dom-enter": "^2.0.0",
     "can-globals": "^1.0.0",
     "can-test-helpers": "^1.1.0",
